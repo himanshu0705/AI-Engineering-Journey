@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+print("Hello, ", name)
+age = int(input("Enter your age : "))
+print("You are ", age, "years old.")
+print("After 5 years, your age will be ", age+5)
+print("Welcome to your AI Engineeing journey!")
